@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Gowtham G!
 
 Welcome to my little corner of the internet! 🌍 I'm a passionate **MERN developer** who loves to build dynamic and interactive web applications. I believe in crafting clean, scalable, and efficient code to create seamless user experiences. 💻✨
 
@@ -25,9 +25,8 @@ Welcome to my little corner of the internet! 🌍 I'm a passionate **MERN develo
 
 Feel free to connect with me! 🚀
 
-- 📧 **Email**: [Your Email]
-- 🌐 **Website/Portfolio**: [Your Portfolio Link]
-- 🐦 **Twitter**: [Your Twitter Handle]
-- 💼 **LinkedIn**: [Your LinkedIn Profile]
+- 📧 **Email**: gowtham.mca.g@gmail.com
+- 🌐 **Website/Portfolio**: https://gowthamgportfolio.netlify.app/
+- 💼 **LinkedIn**: https://www.linkedin.com/in/gowtham-g-a8a945220
 
 Thanks for stopping by! 😄 Let's build something amazing together! 💻✨
