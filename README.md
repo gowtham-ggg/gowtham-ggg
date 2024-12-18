@@ -20,15 +20,14 @@ Welcome to my little corner of the internet! 🌍 I'm a passionate **MERN develo
 ## 📈 Stats:
 - 🌟 I'm continuously learning and growing with every project I take on!
 - 🎯 Here’s a glimpse of my journey:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham-ggg&layout=compact&hide=html)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham-ggg&layout=compact&hide=html)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gowtham-ggg&show_icons=true&count_private=true&hide_title=true&hide=prs)
 
-Feel free to connect with me! 🚀
-
-- 📧 **Email**: gowtham.mca.g@gmail.com
-- 🌐 **Website/Portfolio**: https://gowthamgportfolio.netlify.app/
-- 💼 **LinkedIn**: https://www.linkedin.com/in/gowtham-g-a8a945220
+## 📞 Connect with Me:
+- 📧 **Email**: [gowtham.mca.g@gmail.com](mailto:gowtham.mca.g@gmail.com)
+- 🌐 **Website/Portfolio**: [https://gowthamgportfolio.netlify.app/](https://gowthamgportfolio.netlify.app/)
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/gowtham-g-a8a945220](https://www.linkedin.com/in/gowtham-g-a8a945220)
 
 Thanks for stopping by! 😄 Let's build something amazing together! 💻✨
