@@ -21,7 +21,7 @@ Welcome to my little corner of the internet! 🌍 I'm a passionate **MERN develo
 - 🌟 I'm continuously learning and growing with every project I take on!
 - 🎯 Here’s a glimpse of my journey:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_title=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gowtham-ggg&show_icons=true&count_private=true&hide_title=true&hide=prs)
 
 Feel free to connect with me! 🚀
 
