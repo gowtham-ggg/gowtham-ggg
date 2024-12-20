@@ -12,11 +12,6 @@ Welcome to my little corner of the internet! 🌍 I'm a passionate **MERN develo
 - 🚀 **GraphQL** to power more efficient APIs
 - 🧑‍💻 **Docker & Kubernetes** for deployment and containerization
 
-## 🌟 Fun Facts:
-- 🌈 I enjoy bringing ideas to life with both **code** and **design**.
-- 💡 Always up for a challenge and love to collaborate with other developers!
-- 🎮 When I'm not coding, you can catch me gaming or reading sci-fi books 📚.
-
 ## 📈 Stats:
 - 🌟 I'm continuously learning and growing with every project I take on!
 - 🎯 Here’s a glimpse of my journey:
