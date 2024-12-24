@@ -8,7 +8,7 @@ Welcome to my little corner of the internet! 🌍 I'm a passionate **MERN develo
 - 🛠️ **Experiment with new technologies** and **open-source tools** to stay on the cutting edge of development.
 
 ## 🌱 Currently Learning:
-- 🌐 **Next.js** for server-side rendering and static site generation
+- 🌐 **Node.js** for server-side rendering and static site generation
 - 🚀 **GraphQL** to power more efficient APIs
 - 🧑‍💻 **Docker & Kubernetes** for deployment and containerization
 
