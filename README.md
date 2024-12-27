@@ -7,11 +7,6 @@ Welcome to my little corner of the internet! 🌍 I'm a passionate **MERN develo
 - 🔍 **Solve JavaScript challenges** every day to keep my skills sharp! (Feel free to check out my solutions 🧠)
 - 🛠️ **Experiment with new technologies** and **open-source tools** to stay on the cutting edge of development.
 
-## 🌱 Currently Learning:
-- 🌐 **Node.js** for server-side rendering and static site generation
-- 🚀 **GraphQL** to power more efficient APIs
-- 🧑‍💻 **Docker & Kubernetes** for deployment and containerization
-
 ## 📈 Stats:
 - 🌟 I'm continuously learning and growing with every project I take on!
 - 🎯 Here’s a glimpse of my journey:
