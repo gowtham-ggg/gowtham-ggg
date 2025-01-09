@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Gowtham G!
 
-Welcome to my little corner of the internet! 🌍 I'm a passionate **MERN developer** who loves to build dynamic and interactive web applications. I believe in crafting clean, scalable, and efficient code to create seamless user experiences. 💻✨
+Welcome to my little corner of the internet! 🌍 I'm a passionate **MERN developer** who loves to build dynamic and interactive web applications. I believe in crafting clean, scalable, and efficient code to create seamless user experiences.. 💻✨
 
 ---
 
