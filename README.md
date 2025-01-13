@@ -19,9 +19,9 @@ Welcome to my little corner of the internet! 🌍 I'm a passionate **MERN develo
 
 ## 🛠️ Projects:
 Here are some of my featured projects:  
-1. **Imagify** - [Live Demo](https://aiimagify.netlify.app/) | [Code](#)  
-2. **Real Estate Website** - [Live Demo](https://elitehomesearch.netlify.app/)  
-3. **Personal Portfolio** - [Live Demo](https://gowthamgportfolio.netlify.app/)  
+1. **Imagify** - [Live Demo](https://aiimagify.netlify.app/) | [Code](https://github.com/gowtham-ggg/MERN-Projects/tree/master/imagify)  
+2. **Prescripto! 🩺** - [Live Demo](https://prescriptogg.netlify.app/)  | [code](https://github.com/gowtham-ggg/MERN-Projects/tree/master/doctor_appointment)
+3. **Personal Portfolio** - [Live Demo](https://gowthamgportfolio.netlify.app/)   | [code](https://github.com/gowtham-ggg/react-mini-projects)
 
 ---
 
