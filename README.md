@@ -33,4 +33,4 @@ Here are some of my featured projects:
 
 ---
 
-Thanks for stopping by! 😄 Let’s build something amazing together! 💻✨
+Thanks for stopping by! 😄 Let’s build something amazing together!... 💻✨
